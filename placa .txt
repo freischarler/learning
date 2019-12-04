@@ -1,0 +1,4 @@
+DTR RTS RST GPIO0
+
+
+placa cia tx rx gnd
